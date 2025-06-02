@@ -13,8 +13,8 @@ To Do:
 4. Calculator
    * v1: Bais calculator 
    * v2: Using OOP restructure calculator
-6. Restaurant order app
-7. Fast food order app
+6. Fast food kiosk order app
+7. Fast food phone order app
 8. Supermarket checkout app
 9. Clone Taobao app
 10. Clone Instagram
